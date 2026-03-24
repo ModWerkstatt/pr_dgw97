@@ -1,0 +1,22 @@
+{
+    "name": "Prussian Through Coaches 1896",
+    "summary": "",
+    "description": "Through coaches are passenger coaches with a central or side aisle. Entry is usually via the open or closed end platforms. These models corresponded to the construction series from 1897 and were used until approx. 1945, from 1928 without the 4th class.",
+    "localization" : {
+        "de": {
+            "name": "Preußische Durchgangswagen 1896",
+            "summary": "",
+            "description": "Durchgangswagen sind Personenwagen mit einem Mittel- oder Seitengang. Der Einstieg erfolgt in der Regel über die offenen oder geschlossenen Endbühnen. Diese Modelle entsprachen der Bauserie ab 1897 und wurden bis ca. 1945 eingesetzt, ab 1928 ohne die 4. Klasse."
+        }
+    },
+    "authors": [
+        {
+            "name": "Modwerkstatt",
+            "role": "CREATOR"
+        }
+    ],
+    "tags": [
+        "Wagon"
+    ],
+    "url": "https://modwerkstatt.com/downloads/tpf3/preussische-durchgangswagen"
+}

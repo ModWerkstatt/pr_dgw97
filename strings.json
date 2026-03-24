@@ -1,0 +1,154 @@
+{
+	"en": {
+
+		"menu_prdgw96d" : "Prussian Through Coaches 1897",
+			
+		"prdgw96_desc" : "Through coaches are passenger coaches with a central or side aisle. Entry is usually via the open or closed end platforms. These models corresponded to the construction series from 1897 and were used until approx. 1945, from 1928 without the 4th class.",
+			
+		"ab1" : "KPEV Class 1/2 closed",
+		"ab1_10" : "KPEV Class 1/2 closed",
+		"ab1_14" : "KPEV Class 1/2 closed",
+		"ab1_drg" : "DRG Class 1/2 closed",
+			
+		"ab2" : "KPEV Class 1/2 open",
+		"ab2_10" : "KPEV Class 1/2 open",
+		"ab2_14" : "KPEV Class 1/2 open",
+		"ab2_drg" : "DRG Class 1/2 open",
+			
+		"ab3" : "KPEV Class 1/2 one-sided open",
+		"ab3_10" : "KPEV Class 1/2 one-sided open",
+		"ab3_14" : "KPEV Class 1/2 one-sided open",
+		"ab3_drg" : "DRG Class 1/2 one-sided open",
+			
+		"cd1" : "KPEV Class 3/4 closed",
+		"cd1_10" : "KPEV Class 3/4 closed",
+		"cd1_14" : "KPEV Class 3/4 closed",
+		"cd1_drg" : "DRG Class 3/4 closed",
+			
+		"cd2" : "KPEV Class 3/4 open",
+		"cd2_10" : "KPEV Class 3/4 open",
+		"cd2_14" : "KPEV Class 3/4 open",
+		"cd2_drg" : "DRG Class 3/4 open",
+			
+		"cd3" : "KPEV Class 3/4 one-sided open",
+		"cd3_10" : "KPEV Class 3/4 one-sided open",
+		"cd3_14" : "KPEV Class 3/4 one-sided open",
+		"cd3_drg" : "DRG Class 3/4 one-sided open",
+			
+		"c1" : "KPEV Class 3 closed",
+		"c1_10" : "KPEV Class 3 closed",
+		"c1_14" : "KPEV Class 3 closed",
+		"c1_drg" : "DRG Class 3 closed",
+			
+		"c2" : "KPEV Class 3 open",
+		"c2_10" : "KPEV Class 3 open",
+		"c2_14" : "KPEV Class 3 open",
+		"c2_drg" : "DRG Class 3 open",
+			
+		"c3" : "KPEV Class 3 one-sided open",
+		"c3_10" : "KPEV Class 3 one-sided open",
+		"c3_14" : "KPEV Class 3 one-sided open",
+		"c3_drg" : "DRG Class 3 one-sided open",
+			
+		"d1" : "KPEV Class 4 closed",
+		"d1_10" : "KPEV Class 4 closed",
+		"d1_14" : "KPEV Class 4 closed",
+		"d1_drg" : "DRG Class 4 closed",
+			
+		"d2" : "KPEV Class 4 open",
+		"d2_10" : "KPEV Class 4 open",
+		"d2_14" : "KPEV Class 4 open",
+		"d2_drg" : "DRG Class 4 open",
+			
+		"d3" : "KPEV Class 4 one-sided open",
+		"d3_10" : "KPEV Class 4 one-sided open",
+		"d3_14" : "KPEV Class 4 one-sided open",
+		"d3_drg" : "DRG Class 4 one-sided open",
+
+        "offset x-axis": "Offset x-axis",
+        "vehicle": "Vehicle",
+        "asset": "Asset",
+        "height": "Height",
+        "ground": "Ground",
+        "rail": "Rail",
+        "height_tooltip": "Where should be the origin of the height?",
+        "jrm_param_offsetx_tooltip": "Offset in x direction"
+
+	},
+	"de": {
+
+		"menu_prdgw96d" : "Preußische Durchgangswagen 1897",
+			
+		"prdgw96_desc" : "Durchgangswagen sind Personenwagen mit einem Mittel- oder Seitengang. Der Einstieg erfolgt in der Regel über die offenen oder geschlossenen Endbühnen. Diese Modelle entsprachen der Bauserie ab 1897 und wurden bis ca. 1945 eingesetzt, ab 1928 ohne die 4. Klasse.",
+			
+		"ab1" : "KPEV Klasse 1/2 geschlossen",
+		"ab1_10" : "KPEV Klasse 1/2 geschlossen",
+		"ab1_14" : "KPEV Klasse 1/2 geschlossen",
+		"ab1_drg" : "DRG Klasse 1/2 geschlossen",
+			
+		"ab2" : "KPEV Klasse 1/2 offen",
+		"ab2_10" : "KPEV Klasse 1/2 offen",
+		"ab2_14" : "KPEV Klasse 1/2 offen",
+		"ab2_drg" : "DRG Klasse 1/2 offen",
+			
+		"ab3" : "KPEV Klasse 1/2 einseitig offen",
+		"ab3_10" : "KPEV Klasse 1/2 einseitig offen",
+		"ab3_14" : "KPEV Klasse 1/2 einseitig offen",
+		"ab3_drg" : "DRG Klasse 1/2 einseitig offen",
+			
+		"cd1" : "KPEV Klasse 3/4 geschlossen",
+		"cd1_10" : "KPEV Klasse 3/4 geschlossen",
+		"cd1_14" : "KPEV Klasse 3/4 geschlossen",
+		"cd1_drg" : "DRG Klasse 3/4 geschlossen",
+			
+		"cd2" : "KPEV Klasse 3/4 offen",
+		"cd2_10" : "KPEV Klasse 3/4 offen",
+		"cd2_14" : "KPEV Klasse 3/4 offen",
+		"cd2_drg" : "DRG Klasse 3/4 offen",
+			
+		"cd3" : "KPEV Klasse 3/4 einseitig offen",
+		"cd3_10" : "KPEV Klasse 3/4 einseitig offen",
+		"cd3_14" : "KPEV Klasse 3/4 einseitig offen",
+		"cd3_drg" : "DRG Klasse 3/4 einseitig offen",
+			
+		"c1" : "KPEV Klasse 3 geschlossen",
+		"c1_10" : "KPEV Klasse 3 geschlossen",
+		"c1_14" : "KPEV Klasse 3 geschlossen",
+		"c1_drg" : "DRG Klasse 3 geschlossen",
+			
+		"c2" : "KPEV Klasse 3 offen",
+		"c2_10" : "KPEV Klasse 3 offen",
+		"c2_14" : "KPEV Klasse 3 offen",
+		"c2_drg" : "DRG Klasse 3 offen",
+			
+		"c3" : "KPEV Klasse 3 einseitig offen",
+		"c3_10" : "KPEV Klasse 3 einseitig offen",
+		"c3_14" : "KPEV Klasse 3 einseitig offen",
+		"c3_drg" : "DRG Klasse 3 einseitig offen",
+			
+		"d1" : "KPEV Klasse 4 geschlossen",
+		"d1_10" : "KPEV Klasse 4 geschlossen",
+		"d1_14" : "KPEV Klasse 4 geschlossen",
+		"d1_drg" : "DRG Klasse 4 geschlossen",
+			
+		"d2" : "KPEV Klasse 4 offen",
+		"d2_10" : "KPEV Klasse 4 offen",
+		"d2_14" : "KPEV Klasse 4 offen",
+		"d2_drg" : "DRG Klasse 4 offen",
+			
+		"d3" : "KPEV Klasse 4 einseitig offen",
+		"d3_10" : "KPEV Klasse 4 einseitig offen",
+		"d3_14" : "KPEV Klasse 4 einseitig offen",
+		"d3_drg" : "DRG Klasse 4 einseitig offen",
+
+        "offset x-axis": "Offset x-Achse",
+        "vehicle": "Fahrzeug",
+        "asset": "Asset",
+        "height": "Höhe",
+        "ground": "Boden",
+        "rail": "Schiene",
+        "height_tooltip": "Wonach soll die Höhe gesetzt werden?",
+        "jrm_param_offsetx_tooltip": "Verschiebung in x-Richtung"
+
+	}
+}
