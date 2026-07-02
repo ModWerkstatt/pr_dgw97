@@ -755,6 +755,28 @@ return {
 				weightEmpty = 16000,
 				weightMaxPayload = 7000,
 			},
+			lightSourceList = { 
+				lights = {
+					{ 
+						angleMax = 89,
+						angleMin = 9,
+						color = { 1, 0.926131, 0.580392, },
+						fadeOutStart = 600,
+						invertMask = false,
+						length = 6,
+						lightId = "",
+						mask = 32,
+						meshId = "interior",
+						mode = "LIGHT",
+						radius = 3,
+						strength = 6,
+						transf = { 1, 0, 0, 0, 0, 0, -1, 0, 0, 1, 0, 0, 0, 0, 3.6, 1, },
+						type = "CYLINDRICAL",
+						visibleFrom = -1,
+						visibleTo = 800,
+					},
+				},
+			},
 			maintenance = { 
 				lifespan = 14610,
 				runningCosts = -1,
