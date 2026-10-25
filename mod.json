@@ -1,5 +1,4 @@
 {
-	"cosmetic" : true,
     "dependencies": [
         {
             "loadBefore": true,
