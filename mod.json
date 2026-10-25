@@ -1,4 +1,5 @@
 {
+	"cosmetic" : true,
     "dependencies": [
         {
             "loadBefore": true,
@@ -23,7 +24,7 @@
     "preRunScript": {
         "fileName": ""
     },
-    "revision": 1,
+    "revision": 2,
     "runScript": {
         "fileName": ""
     },
