@@ -965,7 +965,7 @@ return {
 						loadConfigs = {
 							{ 
 								cargoEntry = { 
-									capacity = 80,
+									capacity = 72,
 									cargoTypeSet = { 
 										cargoClassesExcluded = { },
 										cargoClassesIncluded = { "PASSENGERS", },
@@ -1027,6 +1027,7 @@ return {
 				loadSpeed = 2,
 				transportModes = { "TRAIN", "ELECTRIC_TRAIN", },
 				filterTags = { "default", },
+				comfortFactor = 0.25,
 			},
 		},
 		version = 2,
